@@ -74,8 +74,8 @@ I care about how things work *underneath* — memory, processes, performance, th
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [kyla-2FA](https://github.com/sospeter-57/kyla-2FA) | Terminal-based ASCII art generator | Go |
-| [forum](https://github.com/sospeter-57/forum) | Text transformation and processing tool | Go |
+| [kyla-2FA](https://github.com/sospeter-57/kyla-2FA) | A GUI 2FA application built with fyne | Go |
+| [forum](https://github.com/sospeter-57/forum) | a minimal social platform for academic pirposes | Go |
 ---
 
 ## 📫 Let's Connect
