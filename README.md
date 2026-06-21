@@ -91,6 +91,6 @@ I care about how things work *underneath* — memory, processes, performance, th
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"we will have all the time that we will need"*
 
 </div>
