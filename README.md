@@ -13,7 +13,7 @@
 
 **Software Engineer** — currently building in Go, Python and JavaScript.
 Ocassionally dives into low-level systems.  
-I care about how things work *underneath* — memory, processes, performance, the metal.
+I find it interesting how things work *underneath* — memory, processes, performance, the metal.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sospeter-57&color=0e75b6&style=flat)](https://github.com/sospeter-57)
 
