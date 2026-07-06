@@ -24,10 +24,9 @@ I find it interesting how things work *underneath* — memory, processes, perfor
 ## 🧠 About Me
 
 - 🔧 Software engineer with a growing focus on **low-level systems** and systems programming
-- 📦 Building real-world projects that touch the whole stack: web, CLI, APIs, and Docker
 - 🌍 Based in **Kenya**
-- 🎯 Currently exploring: **OS internals, compilers, and networking from scratch**
-- 💡 Believer in writing code that's readable, fast, and close to the metal
+- 🎯 Currently exploring: **OS internals, compilers, and networking**
+- 💡 Believer in writing code that's readable and fast
 
 ---
 
