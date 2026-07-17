@@ -24,7 +24,7 @@ I find it interesting how things work *underneath* — memory, processes, perfor
 ## 🧠 About Me
 
 - 🔧 Software engineer with a growing focus on **low-level systems** and systems programming
-- 🌍 Based in **Kenya**
+- 🌍 Based on the **internet**
 - 🎯 Currently exploring: **OS internals, compilers, and networking**
 - 💡 Believer in writing code that's readable and fast
 
